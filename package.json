@@ -1,0 +1,19 @@
+{
+  "name": "react-postgres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": "https://github.com/matsubrasil/react-postgres.git",
+  "author": "matsubrasil <matsuboy@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
